@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T12:04:12.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="mjB5rk96EFuXbE0HAht7" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T12:07:42.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="7eETDUuIB8iLF4sbpFnI" version="16.5.6" type="github">
   <diagram id="tMkF3gVaSJXZnlRdgO0n" name="Page-1">
     <mxGraphModel dx="1298" dy="684" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -253,13 +253,13 @@
         <mxCell id="ueHyK503XpMVif8HTqAB-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ueHyK503XpMVif8HTqAB-106" target="ueHyK503XpMVif8HTqAB-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ueHyK503XpMVif8HTqAB-106" value="Take Attendance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ueHyK503XpMVif8HTqAB-106" value="Take Labour Attendance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="792" y="1189.25" width="160" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="ueHyK503XpMVif8HTqAB-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ueHyK503XpMVif8HTqAB-107" target="ueHyK503XpMVif8HTqAB-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ueHyK503XpMVif8HTqAB-107" value="Register" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ueHyK503XpMVif8HTqAB-107" value="Register Labour" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="792" y="1035" width="154" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="ueHyK503XpMVif8HTqAB-114" value="Collect Details for Registration" style="swimlane;" vertex="1" parent="1">
@@ -273,6 +273,9 @@
         </mxCell>
         <mxCell id="ueHyK503XpMVif8HTqAB-117" value="Capture Image" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="963" y="1050.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ueHyK503XpMVif8HTqAB-119" value="Add Team member" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="638" y="791" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
